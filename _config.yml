@@ -7,7 +7,7 @@ remote_theme: b2a3e8/jekyll-theme-console
 header_pages:
  - index.md
 
-footer: 'follow me on <a href="https://twitter.com/sridge">twitter</a>'
+footer: 'follow me on twitter <a href="https://twitter.com/sean_ridge">@sean_ridge</a>'
 
 style: dark # dark (default) or light
 listen_for_clients_preferred_style: true # true or false (default)
