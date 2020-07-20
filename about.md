@@ -4,7 +4,7 @@ layout: page
 permalink: /about
 ---
 # Sean Ridge
-Data Person
-<img src="/assets/avatar.svg" alt="image" width="250" height="270" style="float:right" />
+Data Scientist
+<img src="/assets/avatar.svg" alt="image" width="250" height="270" style="position:relative; left:80px; top:2px;" />
 
 
