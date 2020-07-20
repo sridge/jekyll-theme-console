@@ -6,6 +6,7 @@ remote_theme: b2a3e8/jekyll-theme-console
 
 header_pages:
  - index.md
+ - projects.md
 
 footer: 'follow me on twitter <a href="https://twitter.com/sean_ridge">@sean_ridge</a>'
 
