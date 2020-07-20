@@ -5,4 +5,4 @@ permalink: /about
 ---
 
 # Sean Ridge
-Data Scientist ![][avatar.svg]
+Data Scientist ![image][/assets/avatar.svg]
