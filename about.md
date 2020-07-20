@@ -7,6 +7,7 @@ permalink: /about
 # Sean Ridge
 Data Scientist
 
+<small>
                                                                                                     
                                               +oyyhdddddddddmmhs+/                                  
                                             /+syhdhhyyyddddhyhmmss+os++/++                          
@@ -50,3 +51,4 @@ Data Scientist
                    .:dmmmmmmmmmmmmmhhdyhddhs+//////////////++++++++oyshhNNNNmms/+oyhhdddhs-         
                 .--:ddmmmmmmmmmmmmmmddhdddmhyhs++///////++ooo+++++oyymshhNNNmmmm/++-ohyyyhhs:/      
               :dmmmmmmmmmmmmmmmmmmmmmmmdhNyhmdos++//////+++ooo++oshyhNdhdNNNmmmNd+/:dmmdyo::++o      
+</small>
