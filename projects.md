@@ -4,5 +4,5 @@ layout: home
 permalink: /projects
 ---
 
-# Sean Ridge
-Data Scientist
+# QOCCM
+Quick Ocean Carbon Cycle Model -- a python based computationally efficiency ocean carbon cycle model
