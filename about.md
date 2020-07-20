@@ -5,4 +5,6 @@ permalink: /about
 ---
 # Sean Ridge
 Data Scientist
-<img src="/assets/avatar.svg" alt="image" width="250" height="270" />
+<img src="/assets/avatar.svg" alt="image" width="250" height="270" style="float:right" />
+
+
