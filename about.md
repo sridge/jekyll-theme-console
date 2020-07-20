@@ -8,7 +8,7 @@ permalink: /about
 Data Scientist
 
 
-
+<code>
                                                                                                     
                                                                                                     
                                               +oyyhdddddddddmmhs+/                                  
@@ -53,4 +53,4 @@ Data Scientist
                    .:dmmmmmmmmmmmmmhhdyhddhs+//////////////++++++++oyshhNNNNmms/+oyhhdddhs-         
                 .--:ddmmmmmmmmmmmmmmddhdddmhyhs++///////++ooo+++++oyymshhNNNmmmm/++-ohyyyhhs:/      
               :dmmmmmmmmmmmmmmmmmmmmmmmdhNyhmdos++//////+++ooo++oshyhNdhdNNNmmmNd+/:dmmdyo::++o     
- 
+ </code>
