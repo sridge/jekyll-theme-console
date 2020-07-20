@@ -2,7 +2,7 @@
 ---
 title: /publications
 layout: page
-permalink: /
+permalink: /publications
 ---
 
 # Sean Ridge
