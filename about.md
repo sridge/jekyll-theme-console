@@ -5,4 +5,4 @@ permalink: /about
 ---
 
 # Sean Ridge
-Data Scientist ![image](/assets/avatar.svg | width=30) 
+Data Scientist <img src="/assets/avatar.svg" alt="Sean" title="A cute kitten" width="50" height="50" />
