@@ -6,5 +6,5 @@ permalink: /about
 
 
 
-# Sean Ridge
+# -- Sean Ridge --
 <img src="/assets/avatar.svg" alt="image" width="250" height="270" />
