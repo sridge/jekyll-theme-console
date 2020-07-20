@@ -10,7 +10,7 @@ header_pages:
 footer: 'follow me on twitter <a href="https://twitter.com/sean_ridge">@sean_ridge</a>'
 
 style: dark # dark (default) or light
-listen_for_clients_preferred_style: false # true or false (default)
+listen_for_clients_preferred_style: true # true or false (default)
 
 plugins:
   - jekyll-seo-tag
