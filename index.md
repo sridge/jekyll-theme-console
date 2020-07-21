@@ -5,4 +5,4 @@ permalink: /
 ---
 
 # Sean Ridge
-Data Scientist
+Data Scientist | New York, NY
