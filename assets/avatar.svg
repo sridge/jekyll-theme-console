@@ -6,18 +6,21 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   sodipodi:docname="avatar.svg"
    id="svg8"
    version="1.1"
-   viewBox="0 0 210 297"
-   height="297mm"
-   width="210mm">
+   viewBox="0 0 192.05116 192.05116"
+   height="192.05116mm"
+   width="192.05116mm">
   <defs
      id="defs2">
     <rect
        id="rect835"
        height="297.56766"
-       width="753.69929"
-       y="0.90655227"
+       width="753.69928"
+       y="0.90655226"
        x="-42.66111" />
     <clipPath
        id="clipPath1281"
@@ -30,6 +33,25 @@
          r="95.025581" />
     </clipPath>
   </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="800"
+     inkscape:window-width="1200"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="223.12461"
+     inkscape:cx="297.47869"
+     inkscape:zoom="0.29847599"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -43,13 +65,16 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1">
+     transform="translate(-11.270065,-12.17601)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
     <circle
        r="95.025581"
        cy="108.20159"
        cx="107.29565"
        id="path932"
-       style="fill:#edebe3;fill-opacity:1;stroke-width:2;stroke-linejoin:round;stop-color:#000000;font-variation-settings:normal;opacity:1;vector-effect:none;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;anonymous:0;stop-opacity:1;stroke:#000000" />
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#edebe3;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1" />
     <text
        clip-path="url(#clipPath1281)"
        transform="translate(27.299921,7.5595238)"
