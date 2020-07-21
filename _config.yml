@@ -10,7 +10,7 @@ header_pages:
  - projects.md
  - publications.md
 
-footer: 'follow me on twitter <a href="https://twitter.com/sean_ridge">@sean_ridge</a>'
+footer: 'follow me on <a href="https://twitter.com/sean_ridge">twitter</a> and <a href="https://github.com/sridge">GitHub</a>
 
 style: light # dark (default) or light
 listen_for_clients_preferred_style: false # true or false (default)
