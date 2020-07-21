@@ -4,7 +4,7 @@ layout: page
 permalink: /about
 ---
 # Sean Ridge
-Data Scientist
+Data Scientist 📍 New York, NY
 <br />
 <img src="/assets/avatar.svg" alt="image" width="190" height="190" />
 <br />
