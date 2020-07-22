@@ -3,7 +3,7 @@ title: /projects
 layout: page
 permalink: /projects
 ---
-# Projects
+# Projects (TESTING)
 <br />
 # QOCCM
 Quick Ocean Carbon Cycle Model -- a python based computationally efficiency ocean carbon cycle model. [Source code and documentation](https://qoccm.readthedocs.io/en/latest/).
@@ -12,3 +12,5 @@ Quick Ocean Carbon Cycle Model -- a python based computationally efficiency ocea
 Currently available weather forecasts are not very accurate in mountainous areas. I trained a neural network that reduced average absolute error by >4°C in mountainous areas. Part of an API I wrote that returns hyperlocal forecasts and forecast uncertainty. [Demo here](https://github.com/sridge/wx-forecast-api-demo).
 
 {% include temperature_plot.html %}
+
+<br />
